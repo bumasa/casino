@@ -1,0 +1,46 @@
+#ma big { vertical-align: top; font-weight:bold; font-size:14px}
+#footer {color:#8F8F8F; font-size:10px; font-family:tahoma;}
+#footer a {color:#FF7800; font-size:10px; font-family:tahoma;}
+#header td {color:#949191; font-size:13px; font-family:tahoma}
+#ba a{BACKGROUND: none; COLOR: #D43A25; FONT-SIZE: 10px; FONT-FAMILY: tahoma; TEXT-DECORATION: underline}
+#head { color:#9A9999; font-family:tahoma; font-size:10px;}
+#head a { color:#9A9999; font-family:tahoma; font-size:10px; text-decoration:none}
+#head a:hover { text-decoration:none}
+
+.style1 {
+	color: #E0482F;
+	font-size: 13px;
+	font-family: tahoma;
+	font-weight:bold
+}
+.style2 {
+	color: #949191;
+	font-size: 10px;
+	font-family: tahoma
+}
+FONT		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; color:#949191}
+TD		{FONT-FAMILY: Verdana,Helvetica; color:#949191; font-size:10px; margin:0; padding:0}
+BODY		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; PADDING:0; MARGIN:0; background-color: #000000; color:#949191}
+P		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+DIV		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; padding:0; margin:0}
+INPUT		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+TEXTAREA	{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+FORM 		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+A:link          {BACKGROUND: none; COLOR: #FF7800; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+A:active        {BACKGROUND: none; COLOR: #FF7800; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+A:visited       {BACKGROUND: none; COLOR: #FF7800; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+A:hover         {BACKGROUND: none; COLOR: #949191; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.title 		{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.content 	{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica}
+.storytitle 	{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 14px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.storycat	{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.boxtitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.boxcontent 	{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica}
+.option 	{BACKGROUND: none; COLOR: #FF7800;  FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none; text-transform:uppercase;}
+.option1 	{BACKGROUND: none; COLOR: #FF7800;  FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none; text-transform:uppercase;}
+.option2 	{BACKGROUND: none; COLOR: #FF7800;  FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.option3 	{BACKGROUND: none; FONT-SIZE: 0px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none; text-transform:none;}
+.tiny		{BACKGROUND: none; COLOR: #949191; FONT-SIZE: 10px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.footmsg        {BACKGROUND: none; COLOR: #949191; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.footmsg_l	{BACKGROUND: none; COLOR: #FF7800; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.box		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; border: 1px solid #000000; background-color: #A6B0BC}
